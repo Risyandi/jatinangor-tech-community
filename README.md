@@ -1,5 +1,5 @@
 # Jatinangor Tech Community
-![Jatinangor Tech Community](./photo-general/jatinangor-tech-community.png)
+![Jatinangor Tech Community](./docs/photo-general/jatinangor-tech-community.png)
 
 
 [Indonesian](#indonesian) |  [English](#english)
@@ -15,11 +15,11 @@ Dan repositori didedikasikan sebagai dokumentasi kegiatan yang dilakukan oleh ja
 
 Di repositori ini nantinya akan menyajikan beberapa sumber kode eksperimen, referensi, foto kegiatan dan presentasi yang sudah dibawakan oleh speaker atau teman-teman yang berkontribusi di komunitas ini. 
 
-* [Photo Kegiatan](/photo-kegiatan)
-* [Presentasi](/presentasi)
-* [Eksperimen](/eksperimen)
+* [Photo Kegiatan](/docs/photo-kegiatan)
+* [Presentasi](/docs/presentasi)
+* [Eksperimen](/docs/eksperimen)
 
-Jika ingin bergabung dengan jatinangor tech community ini, silahkan [daftar](/daftar) dengan membuat issues di repositori ini dengan mengikuti format yang sudah disediakan atau bisa memberitahu admin jatinangor tech community di email
+Jika ingin bergabung dengan jatinangor tech community ini, silahkan [daftar](/docs/daftar) dengan membuat issues di repositori ini dengan mengikuti format yang sudah disediakan atau bisa memberitahu admin jatinangor tech community di email
 [admin@jatinangortechcommunity.xyz](mailto:admin@jatinangortechcommunity.xyz)
 
 ## **English**
@@ -34,8 +34,8 @@ And the repository is dedicated as a documentation of activities carried out by 
 
 This repository will present some source of experimental code, references, photos of activities and presentations that have been brought by speakers or friends who contribute to this community.
 
-* [Activity Photos](/photo-kegiatan)
-* [Presentation](/presentasi)
-* [Experiment](/eksperimen)
+* [Activity Photos](/docs/photo-kegiatan)
+* [Presentation](/docs/presentasi)
+* [Experiment](/docs/eksperimen)
 
-If you want to join this Jatinangor Tech Community, please [register](/daftar) by creating issues in this repository by following the format provided or you can inform the Jatinangor Tech Community admin at email [admin@jatinangortechcommunity.xyz](mailto:admin@jatinangortechcommunity.xyz)
+If you want to join this Jatinangor Tech Community, please [register](/docs/daftar) by creating issues in this repository by following the format provided or you can inform the Jatinangor Tech Community admin at email [admin@jatinangortechcommunity.xyz](mailto:admin@jatinangortechcommunity.xyz)
